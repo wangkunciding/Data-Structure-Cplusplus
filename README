@@ -1,1 +1,8 @@
 修改.gitignore之后需要用git rm -r --cached .指令将本地的追踪删除
+在config里添加：
+	[user]
+		name = 你的用户名
+		email = 你的邮箱
+	[credential]
+		helper = store
+就能避免每次提交都要输入账户和密码，test！
