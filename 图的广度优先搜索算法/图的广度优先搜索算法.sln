@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的广度优先搜索算法", "图的广度优先搜索算法\图的广度优先搜索算法.vcxproj", "{DB460908-D140-4A1C-AA27-8C547E409A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB460908-D140-4A1C-AA27-8C547E409A2B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB460908-D140-4A1C-AA27-8C547E409A2B}.Debug|Win32.Build.0 = Debug|Win32
+		{DB460908-D140-4A1C-AA27-8C547E409A2B}.Release|Win32.ActiveCfg = Release|Win32
+		{DB460908-D140-4A1C-AA27-8C547E409A2B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

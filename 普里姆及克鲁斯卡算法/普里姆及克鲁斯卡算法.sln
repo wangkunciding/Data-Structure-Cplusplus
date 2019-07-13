@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "普里姆及克鲁斯卡算法", "普里姆及克鲁斯卡算法\普里姆及克鲁斯卡算法.vcxproj", "{64C33757-6F04-4924-A0D8-F077FD3EB0F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C33757-6F04-4924-A0D8-F077FD3EB0F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64C33757-6F04-4924-A0D8-F077FD3EB0F8}.Debug|Win32.Build.0 = Debug|Win32
+		{64C33757-6F04-4924-A0D8-F077FD3EB0F8}.Release|Win32.ActiveCfg = Release|Win32
+		{64C33757-6F04-4924-A0D8-F077FD3EB0F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
