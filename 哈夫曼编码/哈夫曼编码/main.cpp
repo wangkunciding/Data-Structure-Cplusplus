@@ -10,7 +10,7 @@ struct Node
 	int lchild, rchild, parent;
 };
 
-void Select(Node huffTree[], int *a, int *b, int n)//找权值最小的两个a和b  
+void Select(Node huffTree[], int *a, int *b, int n)//找权值最小的两个a和b
 {
 	int i;
 	double weight = 0; //找最小的数
